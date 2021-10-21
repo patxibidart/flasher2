@@ -8,7 +8,6 @@ basic.forever(function () {
     basic.pause(1000)
     led.plot(0, 2)
     led.plot(1, 2)
-    led.plot(2, 2)
     led.plot(2, 3)
     led.plot(2, 4)
     basic.pause(1000)
